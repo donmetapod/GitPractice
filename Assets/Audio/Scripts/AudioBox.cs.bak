@@ -7,6 +7,10 @@ public class AudioBox : MonoBehaviour
 <<<<<<< HEAD
     [SerializeField] private AudioSource source;
     
+=======
+    [SerializeField] private AudioClip clip;
+
+>>>>>>> Audio
     // Start is called before the first frame update
     void Start()
     {
