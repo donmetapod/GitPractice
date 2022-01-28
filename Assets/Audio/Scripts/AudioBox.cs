@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AudioBox : MonoBehaviour
 {
-<<<<<<< HEAD
+
     [SerializeField] private AudioSource source;
     
     // Start is called before the first frame update

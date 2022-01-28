@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="282fd7c0-61b9-4210-a001-38bac91dd65e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/Assets/Audio/Scripts/AudioBox.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Audio/Scripts/AudioBox.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Audio/Scripts/AudioBox.cs.bak" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1643386917663</updated>
       <workItem from="1643386924086" duration="63000" />
+      <workItem from="1643387763036" duration="7000" />
     </task>
     <servers />
   </component>
